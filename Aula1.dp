@@ -1,0 +1,15 @@
+[Project]
+FileName=C:\Users\Marcius Bezerra\Desktop\Aulas Pascal\Aula1.dp
+Name=Aula1
+MainUnit=C:\Users\Marcius Bezerra\Desktop\Aulas Pascal\binarios.pas
+UnitCount=1
+ResFiles=C:\Users\Marcius Bezerra\Desktop\Aulas Pascal\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=D:\Dev-Pas\Icons\Console.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=C:\Users\Marcius Bezerra\Desktop\Aulas Pascal\binarios.pas
+FileTime=1327058074
